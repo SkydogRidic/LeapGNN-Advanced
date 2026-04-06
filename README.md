@@ -1,3 +1,6 @@
+A test: Hello!
+
+
 # Artifact Evaluation for LeapGNN
 
 This repository contains the artifacts for evaluating the methods proposed in our paper *LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration*, which was accepted at FAST'25.
