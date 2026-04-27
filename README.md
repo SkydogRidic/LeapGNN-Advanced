@@ -1,5 +1,3 @@
-A test: Hello!
-
 
 # Artifact Evaluation for LeapGNN
 
